@@ -23,7 +23,8 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vectors))
 ```
 
 ## Output:
-![Screenshot 2023-12-27 083117](https://github.com/Thajesh2/EIGENVALUES-AND-EIGENVECTORS/assets/139841959/fe497938-25d1-4fd5-8e9b-cccc85e3fac8)
+![Screenshot 2023-12-27 083117](https://github.com/Thajesh2/EIGENVALUES-AND-EIGENVECTORS/assets/139841959/e581f835-706c-4cb8-95db-3be069ab824c)
+
 
 
 ## Result:
